@@ -1,0 +1,184 @@
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 03:54:42 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:51554 (2020-01-29 03:54:49 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 69 (2020-01-29 05:09:50 +0530)
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 05:11:37 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:52398 (2020-01-29 05:11:51 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 11:56:11 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:48090 (2020-01-29 11:56:26 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:48092 (2020-01-29 11:56:30 +0530)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:48094 (2020-01-29 11:56:31 +0530)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 12:29:51 +0530)
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 13:41:28 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.140:55374 (2020-01-29 13:41:33 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.140:55375 (2020-01-29 13:41:36 +0530)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.40
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.43.40/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 13:42:37 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.140:55456 (2020-01-29 13:42:44 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.140:55457 (2020-01-29 13:42:47 +0530)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.40
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.43.40/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 15:21:34 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.40:50020 (2020-01-29 15:22:09 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2020-01-29 20:46:56 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.8:52928 (2020-01-29 20:48:14 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.8:52930 (2020-01-29 20:48:16 +0530)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.40
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
